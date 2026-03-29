@@ -5,7 +5,7 @@
 **A Minimalist Terminal Productivity Suite for Linux**
 
 ###  Project Resume
-FINS** is a workflow enhancement that transforms the traditional Linux terminal into a high-speed, visual command center. Instead of manually typing long file paths or using `ls` repeatedly, **FINS** allows you to peek into your files with syntax highlighting before you even open them. 
+**FINS** is a workflow enhancement that transforms the traditional Linux terminal into a high-speed, visual command center. Instead of manually typing long file paths or using `ls` repeatedly, **FINS** allows you to peek into your files with syntax highlighting before you even open them. 
 
 While designed on Fedora Sway,**FINS** is shell-agnostic across the Linux ecosystem. As long as the Fish shell is present, your workflow remains identical.
 
